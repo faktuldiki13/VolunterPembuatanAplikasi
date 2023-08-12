@@ -3,9 +3,10 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Jika Anda tertarik untuk menjadi Volunter, silakan lakukan PR(pull-request) pada berkas ini ya.  
 Silakan gunakan format berikut:
 
-**\* Nama, [LinkedIn/GitHub/Website](Alamat URL).**  
-_Catatan: Pastikan sesuai dengan urutan yang ada._
+**\* Nama Lengkap, [Nama Portofolio](Alamat Portofolio)**
+Berikut daftar Volunter yang diterima:
 
+* Oon Arfiandwi, [oo.or.id](https://oo.or.id).
 Berikut daftar Volunter yang diterima:
 ### A
 * Achmad Aqrom Roid N.H, [GitHub](https://github.com/AARNH).
